@@ -1,5 +1,9 @@
 # plugin-historiqueMeteo
 Plugin Jeedom pour HIstorique Météo
+<p align="left">
+  <img src="docs/images/resultat.png" width="600" title="Résultat">
+</p>
+
 ## Fonctions
 
 Plugin permettant de récupérer les données d'historique Méteo. Et plus particulierement des quantités de pluie tombé par jour et par mois.
