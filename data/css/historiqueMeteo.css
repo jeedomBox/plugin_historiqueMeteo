@@ -1,0 +1,13 @@
+.tableHM {
+
+	display: table;
+	border:solid 1px black;
+	text-align: center;
+    border-radius:5px 5px 0px 0px;
+    color: white;
+  	text-transform: uppercase;
+  	z-index:-1;
+	height:20%;
+	width:100%;
+	background-color: #3E3E3C;
+}
