@@ -19,7 +19,7 @@ Par source Github:
   * Branche : **master**
   * => Puis valider par le bouton "Enregistrer"
 <p align="left">
-  <img src="../images/ajout.png" width="600" title="Configuration">
+  <img src="../images/ajout.png" width="600" title="Ajouter">
 </p>
 * Rafraichir la page: Le plugin "historiqueMeteo" doit apparaitre. Sélectionner son symbole pour aller dans sa page de configuration.
 * Sur la page de configuration du plugin:
@@ -47,12 +47,12 @@ Par source Github:
 Aller dans le menu "plugins/meteo/Metéo Historique" de jeedom pour créer votre équipement.
 Cliquer sur Ajouter.
 <p align="left">
-  <img src="../images/ajouterPlugin.png" width="400" title="Configuration">
+  <img src="../images/ajouterPlugin.png" width="400" title="Ajouter">
 </p>
 
 ## Options
 * Charger l'Historique : Permet de recupérer l'historique depuis l'année 2013.
 * Récupérer le code géofence de votre ville. <br/>Il se base sur les données que vous avez renseignée dans les paramètres de Jeedom.<br/> Il est necessaire d'avoir installer le plugin Geoloc. <a href="https://doc.jeedom.com/fr_FR/plugins/organization/geoloc/" target="_blank">Geoloc</a>
 <p align="left">
-  <img src="../images/options.png" width="600" title="Configuration">
+  <img src="../images/options.png" width="600" title="Options">
 </p>
