@@ -39,7 +39,7 @@ Par source Github:
     <br/>Saisissez une ville et récupérez le code Géofence dans l'url
     <br/>Exemple: pour Lyon le code attendu est 2996944
  <p align="left">
-  <img src="../images/codeGeofence.png" width="300" title="Configuration geofence">
+  <img src="../images/codeGeofence.png" width="500" title="Configuration geofence">
 </p>
 
 
