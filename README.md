@@ -18,6 +18,9 @@ Utilisation du site <a href="https://www.terre-net.fr"> www.terre-net.fr</a> afi
 ## Versions
 [Versions](../../tree/master/docs/fr_FR/changelog.md)  
 
+## Clause de non-responsabilité
+Ce code ne prétend pas être sans bogue
+Bien qu'il ne doive pas nuire à votre système Jeedom, il est fourni sans aucune garantie ni responsabilité
+    
 ## Contributions
-
 Ce plugin est ouvert aux contributions et même encouragé ! Veuillez soumettre vos demandes d'améliorations/corrections.
