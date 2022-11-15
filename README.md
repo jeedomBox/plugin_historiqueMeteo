@@ -10,8 +10,14 @@ Plugin permettant de récupérer les données d'historique Méteo. Et plus parti
 Les données n'étant pas mises à disposition en temps réel, le plugin récupère chaque jour les données de la veille. 
 Utilisation du site <a href="https://www.terre-net.fr"> www.terre-net.fr</a> afin de récupérer les données
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/hlaissus)
+
 ## Documentation
 [Documentation](../../tree/master/docs/fr_FR/index.md)
 
 ## Versions
 [Versions](../../tree/master/docs/fr_FR/changelog.md)  
+
+## Contributions
+
+Ce plugin est ouvert aux contributions et même encouragé ! Veuillez soumettre vos demandes d'améliorations/corrections.
