@@ -4,7 +4,7 @@
 
 Plugin permettant de récupérer les données d'historique Méteo. Et plus particulierement la quantité de pluie tombée par jour et par mois.
 <br/>Les données n'étant pas mises à disposition en temps réel, le plugin récupère chaque jour les données de la veille. 
-<br/>Utilisation du site <a href="https://www.terre-net.fr" target="_blank"> www.terre-net.fr</a> afin de récupérer les données
+<br/>Utilisation du site <a href="https://www.terre-net.fr" target="_blank"> www.terre-net.fr</a> afin de récupérer les données.
 
 
 ## Installation du plugin
