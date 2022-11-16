@@ -8,9 +8,6 @@
     "author": "JeedomBox",
     "require": "4.2.0",
     "category": "weather",
-    "hasDependency": false,
-    "hasOwnDeamon": false,
-    "maxDependancyInstallTime": 0,
     "changelog": "https://github.com/jeedomBox/plugin_historiqueMeteo/tree/master/docs/fr_FR/changelog.md",
     "documentation": "https://github.com/jeedomBox/plugin_historiqueMeteo/tree/master/docs/fr_FR/index.md",
     "link": {
@@ -20,12 +17,8 @@
         "fr_FR"
     ],
     "compatibility": [
-        "miniplus",
-        "smart",
         "rpi",
-        "docker",
         "diy",
-        "mobile",
         "v4",
         "atlas"
     ]
